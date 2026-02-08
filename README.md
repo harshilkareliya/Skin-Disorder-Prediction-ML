@@ -24,14 +24,18 @@ This project focuses on building a predictive ML model to classify skin disorder
 ## 🤖 Models Used
 - Logistic Regression
 - Decision Tree
-- Random Forest (if used)
-- KNN / SVM (if used)
+- Random Forest
+- Gaussain NB
+- Gradiant Boosting
+- SVC
 
 ## 📈 Evaluation Metrics
 - Accuracy
 - Precision
 - Recall
+- f1_score
 - Confusion Matrix
+- classification_report
 
 ## ✅ Results
 The Logistic Regression model performance was evaluated and compared to identify the best
